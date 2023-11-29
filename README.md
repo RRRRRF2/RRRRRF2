@@ -1,5 +1,5 @@
 <div align ="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RRRRRF2&show_icons=true&theme=gotham" style="vertical-align: top; display: inline block;"width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=RRRRRF2&count_private=true&show_icons=true&theme=gotham" style="vertical-align: top; display: inline block;"width="49%" />
 <h2>공부중인 언어들입니다.</h2>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
